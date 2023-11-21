@@ -1,12 +1,14 @@
-{
-    "author" : "p3terson",
-    "name" : "whiteSnow",
-    "keyWords" : "theme, whiteSnow",
-    "version" : "2.0.0",
-    "dofusVersion" : "2.69",
-    "description" : "Joyeux Nowel !",
-    "url" : "https://github.com/p3terson7/dofus_theme/raw/main/whiteSnow.zip",
-    "previewUrl" : "https://raw.githubusercontent.com/DictatureDofus/dofus_themes/main/whiteSnow.jpg",
-    "creationDate" : "21/12/2017",
-    "modificationDate" : "21/11/2023"
-}
+[
+    {
+        "author" : "p3terson",
+        "name" : "whiteSnow",
+        "keyWords" : "theme, whiteSnow",
+        "version" : "2.0.0",
+        "dofusVersion" : "2.69",
+        "description" : "Joyeux Nowel !",
+        "url" : "https://github.com/p3terson7/dofus_theme/raw/main/whiteSnow.zip",
+        "previewUrl" : "https://raw.githubusercontent.com/DictatureDofus/dofus_themes/main/whiteSnow.jpg",
+        "creationDate" : "21/12/2017",
+        "modificationDate" : "21/11/2023"
+    }
+]
